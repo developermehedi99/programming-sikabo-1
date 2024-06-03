@@ -4,5 +4,8 @@ var eggPrice = 11;
 let mangoPrice = 40;
 let name = "mehedi";
 
-const price = 44;
+const country = "BD";
 const salary = 55;
+
+const isMango = true;
+console.log(typeof salary);
